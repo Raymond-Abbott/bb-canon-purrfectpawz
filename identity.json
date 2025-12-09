@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "PetGroomer",
+  "name": "Purrfect Pawz",
+  "url": "https://purrfectpawz.co.za/",
+  "description": "Pet grooming service providing bathing, coat brushing, mat removal, nail trimming, ear cleaning, sanitary trimming, breed-specific cuts, teeth cleaning without sedation, and anal gland expression.",
+  "image": null,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "36 Bietou St",
+    "addressLocality": "Door De Kraal",
+    "addressRegion": "Western Cape",
+    "postalCode": "7530",
+    "addressCountry": "ZA"
+  },
+  "telephone": "+27638896663",
+  "email": "rochelle@purrfectpawz.co.za",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "geoWithin": "4JPJ+V8 Bellville, Cape Town",
+    "latitude": null,
+    "longitude": null
+  },
+  "areaServed": {
+    "@type": "GeoCircle",
+    "description": "20km radius service area around Bellville, Cape Town"
+  },
+  "sameAs": [
+    "https://www.google.com/maps?cid=7995587819309457813"
+  ],
+  "review": "See /reviews/reviews.json",
+  "knowsAbout": [
+    "dog grooming",
+    "cat grooming",
+    "coat brushing",
+    "mat and tangle removal",
+    "nail trimming",
+    "ear cleaning",
+    "sanitary trimming",
+    "breed-specific grooming",
+    "teeth cleaning without sedation",
+    "anal gland expression"
+  ],
+  "mainEntityOfPage": "https://purrfectpawz.co.za/",
+  "canonicalVersion": "2025-12-09"
+}
+

@@ -1,0 +1,33 @@
+{
+  "entity": "Purrfect Pawz",
+  "url": "https://purrfectpawz.co.za",
+  "known_for": [
+    {
+      "label": "gentle handling of dogs",
+      "evidence": ["review:Jana-Vieyra", "review:Nigel-and-Margaret-Lambert"],
+      "weight": 0.95
+    },
+    {
+      "label": "excellent grooming quality",
+      "evidence": ["review:Wilmien-Kruger"],
+      "weight": 0.90
+    },
+    {
+      "label": "trusted by owners for pet safety",
+      "evidence": ["review:Jana-Vieyra"],
+      "weight": 0.85
+    },
+    {
+      "label": "supportive local dog parlour",
+      "evidence": ["review:Anntesia-de-Villiers"],
+      "weight": 0.70
+    },
+    {
+      "label": "friendly, kind service",
+      "evidence": ["review:Nigel-and-Margaret-Lambert"],
+      "weight": 0.80
+    }
+  ],
+  "last_updated": "2025-12-09"
+}
+

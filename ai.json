@@ -1,0 +1,37 @@
+{
+  "entity": "Purrfect Pawz",
+  "root_url": "https://purrfectpawz.co.za/",
+  "place_id": "ChIJtTA7srZRzB0RlTgA3PyG-m4",
+  "cid": "7995587819309457813",
+  "business_type": "Pet Groomer",
+  "address": "36 Bietou St, Door De Kraal, Cape Town, 7530",
+  "service_radius_km": 20,
+  "location_plus_code": "4JPJ+V8 Bellville, Cape Town",
+  "capabilities": [
+    "dog grooming",
+    "cat grooming",
+    "bathing",
+    "coat brushing",
+    "mat removal",
+    "nail trimming",
+    "ear cleaning",
+    "sanitary and hygiene trimming",
+    "breed-specific cuts",
+    "teeth cleaning without sedation",
+    "anal gland expression"
+  ],
+  "canonical_endpoints": [
+    "https://purrfectpawz.co.za/identity.json",
+    "https://purrfectpawz.co.za/reviews/reviews.json",
+    "https://purrfectpawz.co.za/reviews/aggregate-rating.json",
+    "https://purrfectpawz.co.za/known-for.json",
+    "https://purrfectpawz.co.za/llms.txt"
+  ],
+  "refresh_policy": {
+    "reviews": "every 14 days",
+    "identity": "on change",
+    "capabilities": "on change"
+  },
+  "generated_at": "2025-12-09T00:00:00Z"
+}
+

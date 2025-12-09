@@ -1,0 +1,38 @@
+{
+  "entity": "Purrfect Pawz",
+  "root_url": "https://purrfectpawz.co.za/",
+  "hash_algorithm": "SHA256",
+  "canonical_hash": null,
+  "files": [
+    {
+      "path": "identity.json",
+      "hash": "e9f462ad1a77abb1a32010d0cc7196061d0b452f1f5e6d8f4406fc781d88a23e"
+    },
+    {
+      "path": "gbp.json",
+      "hash": "012f3a3fa9dbfdd39d2bce0ff5187a9ec4ef12be3857610b0595feea50747de4"
+    },
+    {
+      "path": "reviews.json",
+      "hash": "f0fafde69a2febed3cf8a8ab957713387694f52fed3ce810a9818f29607da618"
+    },
+    {
+      "path": "aggregate-rating.json",
+      "hash": "0b6bb0349b004f5cd92185728afb465a448daaa4e7e195b993a2d466727f4bfc"
+    },
+    {
+      "path": "known-for.json",
+      "hash": "21f19ef5ab9908992f5b8783b441929cab091ab7ee8c03d6d97c7e8710508f2f"
+    },
+    {
+      "path": "llms.txt",
+      "hash": "99545012d9d6c636a966f226194cba32b85b5da335393d5df2cf287793b73704"
+    },
+    {
+      "path": "ai.json",
+      "hash": "aec2a56124a52887faa415296ed4dd36a40d8d90bf90790bf1b3c44c3487d7e5"
+    }
+  ],
+  "generated_at": "2025-12-09T00:00:00Z"
+}
+
